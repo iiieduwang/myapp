@@ -1,0 +1,7 @@
+*.tmp
+
+log/
+
+!need.tmp
+
+doc/**/*.ppt
